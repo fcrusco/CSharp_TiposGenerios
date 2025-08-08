@@ -21,6 +21,7 @@ Program.cs: Classe principal onde a lógica da aplicação ocorre, com um menu i
 ============================
 
 Contact Agenda with Generics in C#
+
 This project is a C# console application that demonstrates the use of generics and CRUD operations (Create, Read, Update, Delete) in a contact agenda. The program allows the user to add, list, update, and delete contacts, using a unique code for each contact, providing a simple and practical example of how to work with generics in C#.
 
 Features:
@@ -42,6 +43,7 @@ Program.cs: Main class where the application logic occurs, with an interactive m
 ========================
 
 Agenda de Contactos con Tipos Genéricos en C#
+
 Este proyecto es una aplicación de consola en C# que demuestra el uso de tipos genéricos y operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en una agenda de contactos. El programa permite al usuario agregar, listar, actualizar y eliminar contactos, utilizando un código único para cada contacto, proporcionando un ejemplo simple y práctico de cómo trabajar con tipos genéricos en C#.
 
 Funciones:
